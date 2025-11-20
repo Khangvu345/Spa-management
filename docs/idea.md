@@ -52,3 +52,5 @@ docs/
 * Nếu chưa có Docker: Hướng dẫn chạy chi tiết FE và BE cũng như kết nối DB
 * Nếu có Docker: Câu lệnh để chạy ứng dụng
 * Hướng dẫn deploy server
+* Các quy tắc coding convention 
+* Git Workflow để làm việc nhóm
